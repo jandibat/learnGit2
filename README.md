@@ -1,5 +1,3 @@
 #learn Git
 
-hello world!
-
-my score fucked
+hello world
